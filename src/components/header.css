@@ -112,6 +112,12 @@
   padding-right: 13px;
 }
 
+.header .orders-link.active {
+  text-decoration: underline;
+  text-underline-offset: 4px;
+  text-decoration-thickness: 2px;
+}
+
 .header .orders-text {
   display: block;
   font-size: 15px;
